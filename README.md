@@ -1,4 +1,4 @@
-# Big_Data_Alkemy 
+# Big Data Project
  Introduction
 
 This project aims to detect price leaders and followers in a given market and create a popularity index for each product.
